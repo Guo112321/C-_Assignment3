@@ -1,0 +1,11 @@
+1|John|Doe|18|Female|Mathematics|85.5
+2|Alice|Smith|17|Female|Science|92.3
+3|Michael|Johnson|16|Male|History|78.9
+4|Emily|Brown|18|Female|Literature|88.2
+5|William|Taylor|17|Male|Physics|90.1
+6|Olivia|Martinez|16|Male|Chemistry|86.7
+7|James|Anderson|18|Male|Biology|91
+8|Sophia|Garcia|17|Female|Geography|82.4
+9|Daniel|Wilson|16|Male|Computer Science|89.8
+10|Emma|Lopez|18|Female|Art|87.6
+12|Xinfu|Guo|23|Male|python|95
